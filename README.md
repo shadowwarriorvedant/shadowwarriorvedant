@@ -1,0 +1,3 @@
+ - I’m SHADOW WARRIOR
+ - I’m interested in cyber security
+ - I’m currently learning application dev
